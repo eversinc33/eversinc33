@@ -1,6 +1,6 @@
 ```
 ____________ 
-|    )    v|   (^-^*)/ Hello!
+|    )    v|   Hi! (^-^*)/ 
 |        .X|   I'm eversinc33 [ˈɛvɚsɪnts],
 |/\     .X#|   penetration tester & hobbyist programmer
 | ^`\^/\XX#|   

@@ -9,3 +9,10 @@ ____________
 +----------+   XMR: 87ohrQtKaVWcwjRpcSvNEU2u9Spm9ny5tBQ3JQRjT8TPeEMhUTYxdUo7iPUxgLicyb4mgALcqPxVj7bHs2f2rX2e2TLKpqZ
 ```
 <a rel="me" href="https://infosec.exchange/@eversinc33"></a>
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cracked5pider&show_icons=true&theme=tokyonight" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked5pider&layout=compact&show_icons=true&theme=tokyonight" />
+</a>

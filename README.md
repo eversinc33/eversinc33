@@ -11,8 +11,8 @@ ____________
 <a rel="me" href="https://infosec.exchange/@eversinc33"></a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cracked5pider&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eversinc33&show_icons=true&theme=tokyonight" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cracked5pider&layout=compact&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversinc33&layout=compact&show_icons=true&theme=tokyonight" />
 </a>

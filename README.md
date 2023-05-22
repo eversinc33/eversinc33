@@ -11,7 +11,7 @@
   88oooo888     888      88oooo888 o888o       88oooooo88 o888o o888o o888o  88ooo888  88ooo88     88ooo88   
                                                                                       
 Bird App: @eversinc33
-Blog: eversinc33.com
+Blog: https://eversinc33.com
 XMR: 87ohrQtKaVWcwjRpcSvNEU2u9Spm9ny5tBQ3JQRjT8TPeEMhUTYxdUo7iPUxgLicyb4mgALcqPxVj7bHs2f2rX2e2TLKpqZ
 ```
 <a rel="me" href="https://infosec.exchange/@eversinc33"></a>

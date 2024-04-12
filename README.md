@@ -10,3 +10,11 @@ Blog: https://eversinc33.com
 XMR: 87ohrQtKaVWcwjRpcSvNEU2u9Spm9ny5tBQ3JQRjT8TPeEMhUTYxdUo7iPUxgLicyb4mgALcqPxVj7bHs2f2rX2e2TLKpqZ
 ```
 <a rel="me" href="https://infosec.exchange/@eversinc33"></a>
+
+<details>
+  <summary><b>Stats</b></summary>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eversinc33&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eversinc33&hide=TeX&layout=compact&theme=dark)
+
+</details>
